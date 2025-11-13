@@ -12,21 +12,13 @@ You will need the following components from your kit for this assignment:
 <ul>
   <li>Raspberry Pi</li>
   <li>Several Jumper Wires (see diagrams below)</li>
-  <li>Resistors (see diagrams below)</li>
+  <li>Resistors (see diagrams)</li>
   <li><a href = "https://kb.vex.com/hc/article_attachments/360045659912" target = "_blank">Limit switch</a></li>
   <li><a href = "https://cdn.sparkfun.com//assets/parts/1/3/5/0/8/15569-Ultrasonic_Distance_Sensor_-_HC-SR04-01a.jpg" target = "_blank">Ultrasonic sensor</a></li>
 </ul>
 
 ### Prototpypes
-Construct each of the prototypes using the diagrams below:
-
-#### Limit Switch
-
-![Limit Switch Circuit](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/SPDT_Pull_up_RPi.JPG?raw=true)
-
-#### Ultrasonic Sensor
-
-![Ultrasonic Sensor](https://github.com/stcline/RPi_Lab-Comparing_Sensors/blob/main/HC-SR04_RPi.JPG?raw=true)
+Construct each of the prototypes using the diagrams on the board.  Before powering up your Pi, have your circuit checked over.
 
 ### Procedure: Code Execution
 
