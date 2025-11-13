@@ -32,13 +32,15 @@ Construct each of the prototypes using the diagrams below:
 
 1. Get the code and run the first two scripts:
 
-- Clone the repository and change the working directory.
+- Make a Python file using nano on your Raspberry Pi.
 
-  `git clone https://github.com/stcline/RPi_Lab-Comparing_Sensors`
+  `nano limit.py`
 
-  `cd RPi_Lab-Comparing_Sensors`
+- Copy the code for the limit swith into it and save the file.
 
-- Each script is for a different prototype.  Run the first two scripts.
+- Repeat that process for the ultrasonic code.  Name that file `ultrasonic.py`.
+
+- Each script is for a different prototype.  Run the scripts on the appropriate circuit.  Pay attention to your terminal window while you manipulate the sensors.
 
   `sudo python3 limit.py`
 
