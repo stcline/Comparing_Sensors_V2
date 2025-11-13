@@ -40,7 +40,7 @@ Construct each of the prototypes using the diagrams below:
 
 - Repeat that process for the ultrasonic code.  Name that file `ultrasonic.py`.
 
-- Each script is for a different prototype.  Run the scripts on the appropriate circuit.  Pay attention to your terminal window while you manipulate the sensors.
+- Each script is for a different prototype.  Run the scripts on the appropriate circuit.  To stop any process in Linux use _CTRL+C_. Pay attention to your terminal window while you manipulate the sensors.
 
   `sudo python3 limit.py`
 
